@@ -1,8 +1,8 @@
-# TdTLists
+# Sails - Angular - Bootstrap - Template
 
-[![Build Status](https://snap-ci.com/tdt17/tdtlists/branch/master/build_image)](https://snap-ci.com/tdt17/tdtlists/branch/master)
+[![Build Status](https://snap-ci.com/tdt17/sails-angular-bootstrap-template/branch/master/build_image)](https://snap-ci.com/tdt17/sails-angular-bootstrap-template/branch/master)
 
-The app is developed to share and collaborate on all sorts of lists.
+Starting point for new sails projects with angular, bootstrap integration
 
 ## Development
 
@@ -18,10 +18,6 @@ Requirements:
 Start (localhost:1337):
 
   sails lift
-
-## Just go and try it:
-https://tdtlists.herokuapp.com/
-The newest version (master) is always checked and deployed, maybe has a few bugs.
 
 ## License
 
